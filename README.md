@@ -65,7 +65,7 @@ python forest.py -model analytic_spectra -etot 1.2e53 -time_scale 2.0 -pns_m 1.6
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 ```
 
 Feel free to adjust any details as needed!
